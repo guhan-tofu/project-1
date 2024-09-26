@@ -1,1 +1,1 @@
-# project-1
+# Electronic Store Analysis
